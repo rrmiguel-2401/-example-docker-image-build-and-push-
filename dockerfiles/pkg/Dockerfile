@@ -1,6 +1,5 @@
 #dummy line
 FROM ubuntu:bionic
-#Second dummy line
 
 ENV JUPYTERLAB_VERSION 3.0.1
 ENV LANG C.UTF-8
